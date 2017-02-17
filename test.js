@@ -56,7 +56,3 @@ it('should calculate minimal base for 2391484', () => {
 it('should calculate minimal base for 1000000000000000000', () => {
   assert.equal(getBase('1000000000000000000'), '999999999999999999');
 });
-
-it('should calculate minimal base for 1000000000000000000000000000000000000', () => {
-  assert.equal(getBase('1000000000000000000000000000000000000'), '999999999999999999999999999999999999');
-});
