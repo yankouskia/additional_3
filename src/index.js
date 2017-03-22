@@ -1,3 +1,3 @@
 module.exports = function getBase(base) {
-	// your solution
-};
+  // your solution
+}
