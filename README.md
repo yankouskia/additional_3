@@ -11,3 +11,7 @@ getBase('1000000000000000000') // -> '999999999999999999', because 1000000000000
 ```
 
 Write your code in `src/index.js`
+
+
+Trying to add demonstration in README.me in two days(2oct 2020) to appreciate yankouskia work on git platform.
+Thanks and LOVE from INDIA
